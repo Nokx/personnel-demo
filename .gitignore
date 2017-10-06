@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Node
+node_modules
+target
+dist
+npm-debug.log.*
+lerna-debug.log
+*.js.map
+*.css.map

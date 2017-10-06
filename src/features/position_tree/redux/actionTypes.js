@@ -1,0 +1,11 @@
+export const REQUEST_ALL = 'position_tree/REQUEST_ALL';
+export const END_REQUEST_ALL = 'position_tree/END_REQUEST_ALL';
+export const SET_ALL = 'position_tree/SET_ALL';
+export const ADD_TREEDATA = 'position_tree/ADD_TREEDATA';
+export const ADD_FLATDATA = 'position_tree/ADD_FLATDATA';
+export const ADD_NODE = 'position_tree/ADD_NODE';
+export const ADD_NODE_REQUEST = 'position_tree/ADD_NODE_REQUEST';
+export const REMOVE_NODE_REQUEST = 'position_tree/REMOVE_NODE_REQUEST';
+export const REMOVE_NODE = 'position_tree/REMOVE_NODE';
+export const EDIT_NODE_REQUEST = 'position_tree/EDIT_NODE_REQUEST';
+export const EDIT_NODE = 'position_tree/EDIT_NODE';

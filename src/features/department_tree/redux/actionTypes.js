@@ -1,0 +1,11 @@
+export const REQUEST_ALL = 'department_tree/REQUEST_ALL';
+export const END_REQUEST_ALL = 'position_tree/END_REQUEST_ALL';
+export const SET_ALL = 'department_tree/SET_ALL';
+export const ADD_TREEDATA = 'department_tree/ADD_TREEDATA';
+export const ADD_FLATDATA = 'department_tree/ADD_FLATDATA';
+export const ADD_NODE = 'department_tree/ADD_NODE';
+export const ADD_NODE_REQUEST = 'department_tree/ADD_NODE_REQUEST';
+export const REMOVE_NODE_REQUEST = 'department_tree/REMOVE_NODE_REQUEST';
+export const REMOVE_NODE = 'department_tree/REMOVE_NODE';
+export const EDIT_NODE_REQUEST = 'department_tree/EDIT_NODE_REQUEST';
+export const EDIT_NODE = 'department_tree/EDIT_NODE';
